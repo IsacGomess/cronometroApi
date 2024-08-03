@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smartTime/static/css/main.fb50cb86.chunk.css",
+    "main.js": "/smartTime/static/js/main.f22b6bc4.chunk.js",
+    "main.js.map": "/smartTime/static/js/main.f22b6bc4.chunk.js.map",
+    "runtime~main.js": "/smartTime/static/js/runtime~main.08ea9b2b.js",
+    "runtime~main.js.map": "/smartTime/static/js/runtime~main.08ea9b2b.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/smartTime/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.f7c5dda2.chunk.js": "/smartTime/static/js/2.f7c5dda2.chunk.js",
+    "static/js/2.f7c5dda2.chunk.js.map": "/smartTime/static/js/2.f7c5dda2.chunk.js.map",
+    "static/js/3.177faaa1.chunk.js": "/smartTime/static/js/3.177faaa1.chunk.js",
+    "static/js/3.177faaa1.chunk.js.map": "/smartTime/static/js/3.177faaa1.chunk.js.map",
+    "index.html": "/smartTime/index.html",
+    "precache-manifest.5973ad71e88d63a8cb5c13527c9205d7.js": "/smartTime/precache-manifest.5973ad71e88d63a8cb5c13527c9205d7.js",
+    "service-worker.js": "/smartTime/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/smartTime/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.fb50cb86.chunk.css.map": "/smartTime/static/css/main.fb50cb86.chunk.css.map",
+    "static/media/logo_transparent.png": "/smartTime/static/media/logo_transparent.6225992b.png"
+  }
+}
