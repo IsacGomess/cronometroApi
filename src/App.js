@@ -1,5 +1,5 @@
 import React from "react";
-import Relogio from './components/relogio'
+import Relogio from './relogio'
 import './App.css'
 import  Logo from'./logo_transparent.png'
 
